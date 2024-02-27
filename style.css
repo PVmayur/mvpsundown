@@ -702,6 +702,16 @@ display: none;
 @media (max-width:600px) {
     #loader h1{
         font-size: 9vw;
-      
+    #footer-bottom {
+    padding-top: 35px;
+    border-top: 1px solid #dadada;
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+        }
     }
 }
