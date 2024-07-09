@@ -1,1 +1,1 @@
-![Alt Text](img/mvp.PNG)
+![Alt Text](img/mvp.png)
